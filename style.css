@@ -1,0 +1,50 @@
+.main-head {
+  text-align: center;
+  color: #8bc34a;
+  font-size: 40px;
+  margin-top: 2rem;
+}
+
+.body-outline {
+  text-align: center;
+  background-color: #8bc34a;
+  color: #dcedc8;
+  width: 500px;
+  padding: 25px 20px;
+  margin: 2rem auto;
+  border: 4px solid;
+}
+body {
+  font-family: "Overpass", sans-serif;
+}
+.post-head {
+  font-size: 30px;
+}
+.post-description {
+  font-size: 20px;
+}
+.post-link {
+  font-size: 17px;
+}
+
+.post-image-one {
+  background-position: center;
+  background-image: url(images/building1.jpg);
+  border: 2px solid;
+  height: 50vh;
+  color: #dcedc8;
+}
+.post-image-two {
+  background-position: center;
+  background-image: url();
+  border: 2px solid;
+  height: 50vh;
+  color: #dcedc8;
+}
+.post-image-three {
+  background-position: center;
+  background-image: url();
+  border: 2px solid;
+  height: 50vh;
+  color: #dcedc8;
+}

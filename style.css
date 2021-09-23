@@ -1,14 +1,14 @@
 .main-head {
   text-align: center;
-  color: #8bc34a;
+  color: #63912f;
   font-size: 40px;
   margin-top: 2rem;
 }
 
 .body-outline {
   text-align: center;
-  background-color: #8bc34a;
-  color: #dcedc8;
+  background-color: #080808dc;
+  color: #afafaf;
   width: 500px;
   padding: 25px 20px;
   margin: 2rem auto;
@@ -23,28 +23,27 @@ body {
 .post-description {
   font-size: 20px;
 }
-.post-link {
+.post-author {
   font-size: 17px;
 }
+.post-link {
+  font-size: 17px;
+  color: rgb(99, 115, 207);
+}
 
-.post-image-one {
+.post-image {
   background-position: center;
+  background-size: 100%;
+  border: 2px solid;
+  height: 50vh;
+  color: #afafaf;
+}
+#post-image-one {
   background-image: url(images/building1.jpg);
-  border: 2px solid;
-  height: 50vh;
-  color: #dcedc8;
 }
-.post-image-two {
-  background-position: center;
-  background-image: url();
-  border: 2px solid;
-  height: 50vh;
-  color: #dcedc8;
+#post-image-two {
+  background-image: url(images/image2.jpg);
 }
-.post-image-three {
-  background-position: center;
-  background-image: url();
-  border: 2px solid;
-  height: 50vh;
-  color: #dcedc8;
+#post-image-three {
+  background-image: url(images/building3.jpg);
 }
